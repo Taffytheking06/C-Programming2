@@ -63,6 +63,7 @@
     "Age.C": "cpp",
     "Grade.C": "cpp",
     "ROIF.C": "cpp",
-    "DiffDatatypes.C": "cpp"
+    "DiffDatatypes.C": "cpp",
+    "Pitfall1.C": "cpp"
   }
 }
