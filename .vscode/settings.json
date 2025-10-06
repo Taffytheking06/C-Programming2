@@ -61,6 +61,7 @@
     "Assignment.C": "cpp",
     "NumberComparison.C": "cpp",
     "Age.C": "cpp",
-    "Grade.C": "cpp"
+    "Grade.C": "cpp",
+    "ROIF.C": "cpp"
   }
 }
