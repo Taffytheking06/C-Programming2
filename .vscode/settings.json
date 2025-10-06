@@ -58,6 +58,7 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
     "RelationalOperators.C": "cpp",
-    "Assignment.C": "cpp"
+    "Assignment.C": "cpp",
+    "NumberComparison.C": "cpp"
   }
 }
