@@ -66,6 +66,7 @@
     "DiffDatatypes.C": "cpp",
     "Pitfall1.C": "cpp",
     "Pitfall2.C": "cpp",
-    "NumberProperties.C": "cpp"
+    "NumberProperties.C": "cpp",
+    "Login.C": "cpp"
   }
 }
