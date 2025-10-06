@@ -62,6 +62,7 @@
     "NumberComparison.C": "cpp",
     "Age.C": "cpp",
     "Grade.C": "cpp",
-    "ROIF.C": "cpp"
+    "ROIF.C": "cpp",
+    "DiffDatatypes.C": "cpp"
   }
 }
