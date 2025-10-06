@@ -60,6 +60,7 @@
     "RelationalOperators.C": "cpp",
     "Assignment.C": "cpp",
     "NumberComparison.C": "cpp",
-    "Age.C": "cpp"
+    "Age.C": "cpp",
+    "Grade.C": "cpp"
   }
 }
