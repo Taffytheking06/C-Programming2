@@ -59,6 +59,7 @@
   "files.associations": {
     "RelationalOperators.C": "cpp",
     "Assignment.C": "cpp",
-    "NumberComparison.C": "cpp"
+    "NumberComparison.C": "cpp",
+    "Age.C": "cpp"
   }
 }
