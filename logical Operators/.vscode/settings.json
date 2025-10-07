@@ -64,6 +64,7 @@
     "NumberProperties.C": "cpp",
     "ShortCircuitEvaluation.C": "cpp",
     "Procedence.C": "cpp",
-    "Precedence.C": "cpp"
+    "Precedence.C": "cpp",
+    "LoanEligibilitySystem.C": "cpp"
   }
 }
