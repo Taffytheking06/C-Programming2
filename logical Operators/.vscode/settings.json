@@ -61,6 +61,7 @@
     "AgeCategory.C": "cpp",
     "GradeAndAttendance.C": "cpp",
     "DiffDatatypes.C": "cpp",
-    "NumberProperties.C": "cpp"
+    "NumberProperties.C": "cpp",
+    "ShortCircuitEvaluation.C": "cpp"
   }
 }
