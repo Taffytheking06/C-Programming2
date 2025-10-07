@@ -62,6 +62,8 @@
     "GradeAndAttendance.C": "cpp",
     "DiffDatatypes.C": "cpp",
     "NumberProperties.C": "cpp",
-    "ShortCircuitEvaluation.C": "cpp"
+    "ShortCircuitEvaluation.C": "cpp",
+    "Procedence.C": "cpp",
+    "Precedence.C": "cpp"
   }
 }
