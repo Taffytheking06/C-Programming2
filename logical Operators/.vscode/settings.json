@@ -66,6 +66,7 @@
     "Procedence.C": "cpp",
     "Precedence.C": "cpp",
     "LoanEligibilitySystem.C": "cpp",
-    "TriangleCheckerSystem.C": "cpp"
+    "TriangleCheckerSystem.C": "cpp",
+    "DeMorganLaw.C": "cpp"
   }
 }
