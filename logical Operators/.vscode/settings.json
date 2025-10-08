@@ -65,6 +65,7 @@
     "ShortCircuitEvaluation.C": "cpp",
     "Procedence.C": "cpp",
     "Precedence.C": "cpp",
-    "LoanEligibilitySystem.C": "cpp"
+    "LoanEligibilitySystem.C": "cpp",
+    "TriangleCheckerSystem.C": "cpp"
   }
 }
