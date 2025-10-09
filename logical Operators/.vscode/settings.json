@@ -68,6 +68,7 @@
     "LoanEligibilitySystem.C": "cpp",
     "TriangleCheckerSystem.C": "cpp",
     "DeMorganLaw.C": "cpp",
-    "BusinessRulesSystem.C": "cpp"
+    "BusinessRulesSystem.C": "cpp",
+    "Bitmask-Logic.C": "cpp"
   }
 }
