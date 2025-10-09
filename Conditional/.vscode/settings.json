@@ -59,6 +59,7 @@
   "files.associations": {
     "Switch_exe.C": "cpp",
     "While-loop.C": "cpp",
-    "do-while-loop.C": "cpp"
+    "do-while-loop.C": "cpp",
+    "for-loop.C": "cpp"
   }
 }
