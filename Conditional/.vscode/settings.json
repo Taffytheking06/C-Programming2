@@ -57,6 +57,8 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
-    "Switch_exe.C": "cpp"
+    "Switch_exe.C": "cpp",
+    "While-loop.C": "cpp",
+    "do-while-loop.C": "cpp"
   }
 }
