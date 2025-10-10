@@ -69,6 +69,7 @@
     "TriangleCheckerSystem.C": "cpp",
     "DeMorganLaw.C": "cpp",
     "BusinessRulesSystem.C": "cpp",
-    "Bitmask-Logic.C": "cpp"
+    "Bitmask-Logic.C": "cpp",
+    "Short-Circuit-Evaluation.C": "cpp"
   }
 }
