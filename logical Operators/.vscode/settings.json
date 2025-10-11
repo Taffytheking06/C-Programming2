@@ -71,6 +71,7 @@
     "BusinessRulesSystem.C": "cpp",
     "Bitmask-Logic.C": "cpp",
     "Short-Circuit-Evaluation.C": "cpp",
-    "Real-World-Security System.C": "cpp"
+    "Real-World-Security System.C": "cpp",
+    "Smart-home-automation-system.C": "cpp"
   }
 }
