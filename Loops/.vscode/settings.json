@@ -58,6 +58,7 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
     "while-loop.C": "cpp",
-    "User-Input-Validation.C": "cpp"
+    "User-Input-Validation.C": "cpp",
+    "Smart-Home-Sensor-Monitoring.C": "cpp"
   }
 }
