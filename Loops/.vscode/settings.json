@@ -61,6 +61,7 @@
     "User-Input-Validation.C": "cpp",
     "Smart-Home-Sensor-Monitoring.C": "cpp",
     "Counting-Up.C": "cpp",
-    "Counting-Down.C": "cpp"
+    "Counting-Down.C": "cpp",
+    "User-controlled-loop.C": "cpp"
   }
 }
