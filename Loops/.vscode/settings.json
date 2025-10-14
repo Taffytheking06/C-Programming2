@@ -59,6 +59,7 @@
   "files.associations": {
     "while-loop.C": "cpp",
     "User-Input-Validation.C": "cpp",
-    "Smart-Home-Sensor-Monitoring.C": "cpp"
+    "Smart-Home-Sensor-Monitoring.C": "cpp",
+    "Counting-Up.C": "cpp"
   }
 }
