@@ -62,6 +62,7 @@
     "Smart-Home-Sensor-Monitoring.C": "cpp",
     "Counting-Up.C": "cpp",
     "Counting-Down.C": "cpp",
-    "User-controlled-loop.C": "cpp"
+    "User-controlled-loop.C": "cpp",
+    "Energy-Consumption-tracker-system.C": "cpp"
   }
 }
