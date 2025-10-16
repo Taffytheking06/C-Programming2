@@ -64,6 +64,7 @@
     "Counting-Down.C": "cpp",
     "User-controlled-loop.C": "cpp",
     "Energy-Consumption-tracker-system.C": "cpp",
-    "Input-Validation.C": "cpp"
+    "Input-Validation.C": "cpp",
+    "Smart-light-scheduler.C": "cpp"
   }
 }
